@@ -357,5 +357,8 @@
     },
     "webmozart/path-util": {
         "version": "2.3.0"
+    },
+    "yellowskies/qr-code-bundle": {
+        "version": "1.2.10"
     }
 }
