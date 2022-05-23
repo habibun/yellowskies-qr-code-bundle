@@ -1,18 +1,15 @@
-# symfony-template
-Implements xxx in symfony
+# yellowskies-qr-code-bundle
+Implements YellowskiesQRcodeBundle in symfony
 
-| Branch     | xxx Version | Symfony Version | PHP Version     |
-|------------|-------------|-----------------|-----------------|
-| [4.4.x][1] | `x.x`       | `4.4.x`         | `7.4` or higher |
+| Branch   | YellowskiesQRcodeBundle Version | Symfony Version | PHP Version     |
+|----------|---------------------------------|-----------------|-----------------|
+| [1.x][1] | `1.x`                           | `4.4.x`         | `7.4` or higher |
 
 
-Read [xxx Docs](xxx)
-
-### Resources  
-- [xxx](xxx)
+Read [YellowskiesQRcodeBundle Docs](https://github.com/AntoineTesson/QRcodeBundle/tree/master/Resources/doc)
 
 
 ### License
-The code is licensed under the [MIT License](https://github.com/habibun/symfony-template/blob/master/LICENSE)
+The code is licensed under the [MIT License](https://github.com/habibun/yellowskies-qr-code-bundle/blob/master/LICENSE)
 
-[1]: https://github.com/habibun/symfony-template/tree/5.4.x
+[1]: https://github.com/habibun/yellowskies-qr-code-bundle/tree/1.x
